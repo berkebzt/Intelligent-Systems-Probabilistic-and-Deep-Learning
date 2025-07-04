@@ -104,8 +104,4 @@ jupyterlab
 
 ## License
 
-This project is submitted in partial fulfilment of COM00184M at the University of York. For academic use only.
-
-## Contact
-
-For questions, open an issue or contact Berke via the VLE discussion board by 5 May 2025.
+This project is submitted in partial fulfilment of PADL Module at the University of York. For academic use only.
